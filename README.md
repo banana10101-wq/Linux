@@ -12,7 +12,7 @@ A powerful Linux-like terminal written in C# for Windows.
 
 ## 🔧 Installation
 
-1. Download `Linux Terminal Emulator.msi`
+1. Download `Linux Terminal Emulator.msi` or download the zip file from here: https://github.com/banana10101-wq/Linux/archive/refs/tags/4.0.zip
 2. Run the installer.
 3. Launch the terminal from the Desktop.
 
