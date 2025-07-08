@@ -1,4 +1,7 @@
 # Terminal Emulator v3.0
+![Built with C#](https://img.shields.io/badge/built%20with-C%23-blue)
+![Terminal Project](https://img.shields.io/badge/type-terminal-green)
+![Version](https://img.shields.io/badge/version-4.0-brightgreen)
 
 A powerful Linux-like terminal written in C# for Windows.
 
@@ -23,8 +26,3 @@ ls, cd, pwd, mkdir, touch, rm, cat
 echo, clear, exit, whoami, mv, cp
 vim, alias, man, history, sudo <command>
 echo Hello > file.txt     # Output redirection
-
-
-![Built with C#](https://img.shields.io/badge/built%20with-C%23-blue)
-![Terminal Project](https://img.shields.io/badge/type-terminal-green)
-![Version](https://img.shields.io/badge/version-4.0-brightgreen)
