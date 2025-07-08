@@ -5,6 +5,8 @@
 
 A powerful Linux-like terminal written in C# for Windows.
 
+⚠️IMPORTANT NOTE: password is admin123
+
 ## ✨ Features
 
 - 🎨 Colorful `ls`
