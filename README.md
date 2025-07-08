@@ -5,7 +5,7 @@
 
 A powerful Linux-like terminal written in C# for Windows.
 
-⚠️IMPORTANT NOTE: password is admin123
+⚠️IMPORTANT NOTE: Password is admin123
 
 ## ✨ Features
 
