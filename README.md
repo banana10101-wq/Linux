@@ -3,6 +3,12 @@
 ![Terminal Project](https://img.shields.io/badge/type-terminal-green)
 ![Version](https://img.shields.io/badge/version-4.0-brightgreen)
 
+A powerful Linux-like terminal written in C# for Windows.
+
+⚠️IMPORTANT NOTE: Password is admin123 in 4.0 version
+
+⚠️Im not responsible for any damages
+
 ## 🛡️ Security Notice
 
 This installer has been scanned with VirusTotal and was found to be **100% clean (0/61 detections)**.
@@ -13,13 +19,6 @@ This installer has been scanned with VirusTotal and was found to be **100% clean
 ⚠️ Windows may warn you because the app is unsigned. This is expected for small/open-source projects.
 
 > Click **“More Info” → “Run Anyway”** to continue.
-
-
-A powerful Linux-like terminal written in C# for Windows.
-
-⚠️IMPORTANT NOTE: Password is admin123 in 4.0 version
-
-⚠️Im not responsible for any damages
 
 ## ✨ Features
 
