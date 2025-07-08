@@ -9,6 +9,7 @@ This installer has been scanned with VirusTotal and was found to be **100% clean
 
 [Proof](https://www.virustotal.com/gui/file/7e4c970259bddad54ca700c16c8bff16bd7cfdac36023268dd85b9f20dcf3382?nocache=1)
 
+
 ⚠️ Windows may warn you because the app is unsigned. This is expected for small/open-source projects.
 
 > Click **“More Info” → “Run Anyway”** to continue.
