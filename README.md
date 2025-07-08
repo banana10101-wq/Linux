@@ -1,4 +1,4 @@
-# Terminal Emulator v4.0
+# Terminal Emulator v4.1
 ![Built with C#](https://img.shields.io/badge/built%20with-C%23-blue)
 ![Terminal Project](https://img.shields.io/badge/type-terminal-green)
 ![Version](https://img.shields.io/badge/Version-4.1-informational?style=flat&logo=windows-terminal&logoColor=white&color=0abde3)
